@@ -1,35 +1,21 @@
-## Portfolio
+
+
+## Selected projects in data science, machine learning
 
 ---
 
-### Category Name 1 
+### Zindi New User Engagement Prediction Challenge
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The objective of this challenge is to predict if a new user from a selected cohort will engage with Zindi in their second month on the platform. For example, if a user joined in June, will they be active in July? 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I have proposed a model based on a deep auto-encoder and a classification network trained jointly to learn the features that are important to model, then use them for the classification.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+##### Ranked 5/212 ! 
 
----
+<img src="https://github.com/DokkarRachidReda/portfolio-data-science/blob/master/images/p1-1.png" />
 
-### Category Name 2
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[View code on Colab](https://colab.research.google.com/drive/13WEJlsB8XA22f5KgE7dwQDO1_BMJEn0t)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
