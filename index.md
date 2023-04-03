@@ -25,7 +25,7 @@ I have proposed a model based on a **deep auto-encoder and a classification netw
 
 My job, as the puzzle solver, was to try to put 75 pages of the famous Cain’s Jawbone into its correct order, using AI NLP algorithms.
 
-I have used BERT NextSentence prediction (NSP) from Hugging Face along with cosine similarity to order the pages.
+I have used **BERT NextSentence prediction (NSP) from Hugging Face** along with cosine similarity to order the pages.
 
 <img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/p2-1.png" width="50%" height="50%" /><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210701233612/BERT2sentence-660x551.JPG" width="50%" height="50%" />
 
