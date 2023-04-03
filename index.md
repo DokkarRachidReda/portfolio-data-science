@@ -1,6 +1,6 @@
 
 
-## Selected projects in data science, machine learning
+## Selected projects in machine learning, Computer Vision, and NLP
 
 ---
 
@@ -20,3 +20,16 @@ I have proposed a model based on a **deep auto-encoder and a classification netw
 [View code on Colab](https://colab.research.google.com/drive/13WEJlsB8XA22f5KgE7dwQDO1_BMJEn0t)
 
 ---
+
+### Cain’s Jawbone Murder Mystery
+
+My job, as the puzzle solver, was to try to put 75 pages of the famous Cain’s Jawbone into its correct order, using AI NLP algorithms.
+
+I have used BERT NextSentence prediction (NSP) from Hugging Face along with cosine similarity to order the pages.
+
+<img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/p2-1.png" width="50%" height="50%" /><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210701233612/BERT2sentence-660x551.JPG" width="50%" height="50%" />
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
+
+[View code on Colab](https://colab.research.google.com/drive/13WEJlsB8XA22f5KgE7dwQDO1_BMJEn0t)
