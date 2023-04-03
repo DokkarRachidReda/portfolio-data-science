@@ -12,7 +12,7 @@ I have proposed a model based on a deep auto-encoder and a classification networ
 
 ##### Ranked 5/212 ! 
 
-<img src="https://github.com/DokkarRachidReda/portfolio-data-science/blob/master/images/p1-1.png" />
+<img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/p1-1.png" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
 
