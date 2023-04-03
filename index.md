@@ -8,7 +8,7 @@
 
 The objective of this challenge is to predict if a new user from a selected cohort will engage with Zindi in their second month on the platform. For example, if a user joined in June, will they be active in July? 
 
-I have proposed a model based on a deep auto-encoder and a classification network trained jointly to learn the features that are important to model, then use them for the classification.
+I have proposed a model based on a **deep auto-encoder and a classification network trained jointly** to learn the features that are important to model, then use them for the classification.
 
 ##### Ranked 5/212 ! 
 
