@@ -30,6 +30,6 @@ I have used **BERT NextSentence prediction (NSP) from Hugging Face** along with 
 <img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/p2-1.png" width="50%" height="50%" /><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210701233612/BERT2sentence-660x551.JPG" width="50%" height="50%" />
 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/13WEJlsB8XA22f5KgE7dwQDO1_BMJEn0t)
