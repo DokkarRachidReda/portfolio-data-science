@@ -38,7 +38,7 @@ I have used **BERT NextSentence prediction (NSP) from Hugging Face** along with 
 
 ``` LSTM,RNN, BERT, Transformer, NLP, Pytorch, Pandas, Numpy, Python ```
 
-<img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/p2-1.png" width="50%" height="422px" /><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210701233612/BERT2sentence-660x551.JPG" width="50%" height="50%" />
+<img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/p2-1.png" width="50%" height="50%" /><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210701233612/BERT2sentence-660x551.JPG" width="50%" height="50%" />
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
@@ -55,7 +55,7 @@ I have utilized a combination of **VGG16 and Unet++** to propose an advanced seg
 
 ``` CNN,VGG16, Unet, Transformer, Vision Transformer, Computer Vision, Pytorch, Python ```
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*lJdfkc1ZJo_DvAIf" width="50%" height="50%" /><img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/p3-1.png" width="50%" height="295px" />
+<img src="https://miro.medium.com/v2/resize:fit:1200/0*lJdfkc1ZJo_DvAIf" width="50%" height="50%" /><img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/p3-1.png" width="50%" height="50%" />
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
