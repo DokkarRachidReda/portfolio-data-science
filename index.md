@@ -3,7 +3,8 @@
 
 ### Krello Data Engineering on Azure
 
-Developed end-to-end data integration solutions using Azure PostgreSQL, Azure Data Factory, and Snowflake, seamlessly transferring private dev data from Krello (a startup I co-founded). Implemented ETL pipelines for PostgreSQL to Snowflake, orchestrated web scraping workflows with Apache Airflow, and automated data lake-to-warehouse integration. 
+Developed end-to-end data integration solutions using **Azure PostgreSQL**, **Azure Data Factory**, and **Snowflake**, seamlessly transferring private dev data from Krello (a startup I co-founded). Implemented **ETL pipelines** for PostgreSQL to Snowflake, **orchestrated web scraping workflows with Apache Airflow**, and automated data lake-to-warehouse integration. 
+
 
 *The databricks part has not been implemented yet.
 
