@@ -1,9 +1,18 @@
 
-## Selected projects in Data Engineering and MLOps
+## Selected projects in Data Engineering
 
-Comming soon!
+### Krello Data Engineering on Azure
 
-``` SQL,Spark, Hadoop, ETL/ELT, Data Piplines, Azure, DataBricks, Snowflake, Airflow ```
+Developed end-to-end data integration solutions using Azure PostgreSQL, Azure Data Factory, and Snowflake, seamlessly transferring private dev data from Krello (a startup I co-founded). Implemented ETL pipelines for PostgreSQL to Snowflake, orchestrated web scraping workflows with Apache Airflow, and automated data lake-to-warehouse integration. 
+
+*The databricks part has not been implemented yet.
+
+``` Azure, Azure Data Factory, Azure Database for PostgreSQL,  Snowflake, Apache Airflow, Databricks, SQL, Spark, ETL/ELT, Batch Jobs ```
+
+<img src="https://raw.githubusercontent.com/DokkarRachidReda/portfolio-data-science/master/images/krellodebatch.png" width="70%" height="70%" />
+
+
+[![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#) [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](#)
 
 ---
 
